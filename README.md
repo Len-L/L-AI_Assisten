@@ -6,7 +6,8 @@ fungsi: hanya memiliki fitur basic (sangat minimalis) dan AI tidak bisa berbicar
 <br>
 os: ubuntu desktop (20.04, 22.04)
 <br>
-=setup ubuntu=
+
+## =setting di ubuntu=
 <br>
 sudo apt update
 <br>
