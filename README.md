@@ -36,7 +36,8 @@ pip install SpeechRecognition
 9. exit
 <br>
 <br>
-# Pertanyaan
+  
+#Pertanyaan
 <br>
 <br>
 1. mengapa semua perintah suara di assisten saya menggunakan bahasa inggris?
