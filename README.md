@@ -31,9 +31,16 @@ pip install SpeechRecognition
 <br>
 7. open my web = akan membuka blog saya 
 <br>
-8. open website + <url>
+8. open website + <url> = akan membuka site sesuai yang anda katakan | contoh: open website youtube.com
 <br>
 9. exit
 <br>
-
-
+<br>
+# Pertanyaan
+<br>
+<br>
+1. mengapa semua perintah suara di assisten saya menggunakan bahasa inggris?
+<br>
+jawab: jika menggunakan bahasa inggris python akan lebih mudah menerjemahkan ke bentuk text
+<br>
+<br>
