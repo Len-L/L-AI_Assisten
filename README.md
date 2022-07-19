@@ -15,7 +15,7 @@ sudo apt install python3-pyaudio
 pip install SpeechRecognition
 <br>
 
-# kata-kata perintah untuk AI Assistent
+## kata-kata perintah untuk AI Assistent
 <br>
 1. Hello = menyapa
 <br>
@@ -36,8 +36,8 @@ pip install SpeechRecognition
 9. exit
 <br>
 <br>
-  
-#Pertanyaan
+
+## Pertanyaan
 <br>
 <br>
 1. mengapa semua perintah suara di assisten saya menggunakan bahasa inggris?
