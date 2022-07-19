@@ -32,7 +32,7 @@ pip install SpeechRecognition
 <br>
 7. open my web = akan membuka blog saya 
 <br>
-8. open website + <url> = akan membuka site sesuai yang anda katakan | contoh: open website youtube.com
+8. open website + 'url' = akan membuka site sesuai yang anda katakan | contoh: open website youtube.com
 <br>
 9. exit
 <br>
